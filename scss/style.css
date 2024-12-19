@@ -1,0 +1,51 @@
+body {
+  background-color: hsl(47, 88%, 63%);
+}
+
+.card {
+  height: 600px;
+  background-color: white;
+  width: 359px;
+  border: 1px solid black;
+  border-radius: 15px;
+  box-shadow: 10px 10px;
+  position: relative;
+}
+.card .topimg {
+  padding: 10px;
+}
+.card .heading1 {
+  margin-left: 10px;
+  text-align: center;
+  font-family: "Figtree", serif;
+  width: 150px;
+  height: 50px;
+  background-color: hsl(47, 88%, 63%);
+  border-radius: 15px;
+}
+.card .publishdate {
+  font-family: "Figtree", serif;
+  margin-left: 10px;
+}
+.card .topic {
+  font-family: "Figtree", serif;
+  margin-left: 10px;
+  font-weight: 800;
+  font-size: 25px;
+}
+.card .des {
+  font-family: "Figtree", serif;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.card .avatar {
+  margin-left: 10px;
+}
+.card .author {
+  font-weight: 800;
+  display: inline-block;
+  font-family: "Figtree", serif;
+  position: absolute;
+  bottom: 43px;
+  left: 77px;
+}/*# sourceMappingURL=style.css.map */
